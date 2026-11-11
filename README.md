@@ -20,8 +20,8 @@
 cd  
 rm -rf RAJESH  
 
-git clone --depth=1 https://github.com/RAJESH-404/RAJESH.git  
+git clone --depth=1 https://github.com/cyberrasel999/Rasel-old.git  
 
 cd RAJESH  
 chmod +x *  
-python RAJESH.py
+python RASEL.py
